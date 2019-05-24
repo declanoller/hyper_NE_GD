@@ -1,6 +1,5 @@
 
 Using Neuroevolution with gradient descent to construct and train logic circuits
-
 =========================================
 
 <p align="center">
