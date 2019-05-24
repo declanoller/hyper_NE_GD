@@ -1,0 +1,9 @@
+{
+    "Name": "InputNode",
+    "N_nodes": 1,
+    "N_inputs": 1,
+    "N_outputs": 1,
+    "atom_function_vec": [
+        "tanh(a_0)"
+    ]
+}
